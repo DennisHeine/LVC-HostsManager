@@ -3,7 +3,7 @@
 Update (Dennis):
 As the original author, I've forked the project, because Tobias does not seem to be able to maintain- or develop it any further. We have canceled friendship a few years ago because bad stuff has happened that i don't want to talk about here.<br>
 PLEASE POST ANY ISSUES IN THIS REPOSITORY<br><br>
---ORIGINAL REAEDME--<br><br>
+--ORIGINAL README--<br><br>
 
 
 This program allows you to update your hosts file with a downloaded blacklist.<br>
