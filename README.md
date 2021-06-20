@@ -44,7 +44,7 @@ https://githubstats.com/LV-Crew/LVC-HostsManager<br>
 <br>
 <br>
 <h3><b>LV-Crew HostsManager is broth to you by:</b></h3>
-- Tobias B. Besemer: Lead, Ideas, Bug reporting<br>
+- Tobias B. Besemer: Ideas, Bug reporting, guy sitting next to me.<br>
 - Dennis M. Heine: Coding, Ideas<br>
 - Denis Müller: Ideas<br>
 - And You ??? ;-)<br>
